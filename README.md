@@ -11,7 +11,7 @@ various dimensions and facts, it enables in-depth insights into financial perfor
 audience demographics, and streaming trends, facilitating strategic decision-making and 
 predictive analytics.
 
-![Data Warehouse Diagram](img/WareHouse (2).png)
+![Data Warehouse Diagram](img/WareHouse.png)
 
 ## Data
 
